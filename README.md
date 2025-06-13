@@ -8,7 +8,3 @@ Kaik Dorvalo dos Santos
 
 Pedro Afonso C. Sena
 22013787-2
-
-# Documentação
-
-Ainda nao tem :)
